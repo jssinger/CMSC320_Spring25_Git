@@ -10,3 +10,7 @@ Answer: Data science could be applied to meteorology to ingest historic weather 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging will maintain the history of the merging branches but rebasing will overwrite the branches' history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm excited to apply all of the foundational CS and Statistics knowledge I've developed in my previous classes to interesting problems and learn new skills!
