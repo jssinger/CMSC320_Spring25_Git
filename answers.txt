@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Git can be helpful for tracking progress in a large software 
+project to ensure version control.
