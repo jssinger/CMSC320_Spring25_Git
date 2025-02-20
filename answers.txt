@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to meteorology to ingest historic weather data to make forecasts.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging will maintain the history of the merging branches but rebasing will overwrite the branches' history.
